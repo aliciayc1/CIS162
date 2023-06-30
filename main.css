@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    background-color: azure;
+}
+
+h1 {
+    color: darkcyan;
+    background-color: ghostwhite;
+}
+
+header {
+    font-size: 1.5em; 
+}
+
+section {
+    line-height: 2.5em;
+}
+
+footer {
+    font-weight: bold;
+}
+
+nav > ul {
+    padding-left: 1.5em;
+}
